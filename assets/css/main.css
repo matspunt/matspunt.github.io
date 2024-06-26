@@ -293,7 +293,7 @@ header .mobile-menu__main li .active-menu::after {
   color: #fff;
   cursor: pointer;
   display: inline-block;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 600;
   line-height: 24px;
   margin-bottom: 0;
@@ -330,6 +330,7 @@ header .mobile-menu__main li .active-menu::after {
 
 .btn.btn_yellow {
   background: #FFE817;
+  font-size: 20px;
   color: #000000;
   border: 1px solid #FFE817;
 }
@@ -429,7 +430,7 @@ header .mobile-menu__main li .active-menu::after {
   font-weight: 600;
   line-height: 84px;
   color: #1F2020;
-  margin-bottom: 20px;
+  margin-bottom: -10px;
 }
 
  /*Controls padding of standard device size*/
@@ -459,7 +460,7 @@ h5 {
 }
 
 p {
-  font-size: 18px;
+  font-size: 21px;
   font-weight: 400;
   color: #404040;
 }
@@ -635,7 +636,7 @@ p {
 }
 
 .about-me {
-  background-color: #FAFAFC;
+  background-color: #FFFFFF;
   position: relative;
 }
 
@@ -656,6 +657,7 @@ p {
   color: #1F2020;
   max-width: 501px;
   margin-bottom: 32px;
+  text-align: center;
 }
 
 .about-me__info p {
@@ -810,7 +812,7 @@ p {
   */
 
 .contact-info p {
-  font-size: 20px;
+  font-size: 22px;
   color: #404040;
   line-height: 30px;
   max-width: 329px;
@@ -830,7 +832,7 @@ p {
 
 .contact-info__text p {
   color: #404040;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 30px;
 }
 

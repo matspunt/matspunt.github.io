@@ -10,7 +10,7 @@ For example, you might want to visualise a detailed spreadsheet you have been wo
 The manner in which we host our webapps, means that we can connect this to a [custom domain](https://www.koyeb.com/docs/run-and-scale/domains) that could be part of a website URL you already own. For instance, if you own a domain ```www.mycompany.com```, we could configure the webapp to be accessed from ```wwww.mycompany.com/webapp```. We don't require access to the source files of your website, since everything happens through DNS redirection that can easily be implemented by your domain hosting service. The example webapps you can find on my website are hosted in this way -insert example-
 
 ### What we offer
-- Development of dynamic web application with a unique visual style that can manipulate, visualize and save dataflows + edits for a **fixed** fee, i.e. you pay always a fixed fee for the requested features, independent of how much time we work. You will own the code, that is, other parties will never have access to the source code of your webapp. 
+- Development of dynamic web applications with a unique visual style that can manipulate, visualize and save dataflows + edits for a **fixed** fee, i.e. you pay always a fixed fee for the requested features, independent of how much time we work. You will own the code, that is, other parties will never have access to the source code of your webapp. 
 - Suppport in maintaining the web application. Safety and stability updates are free for 2 years (we'll make sure the software always runs on the latest stable, supported version). Additional features can be implented for a fee (charged per hour of work). 
 
 ### What we _don't_ offer
