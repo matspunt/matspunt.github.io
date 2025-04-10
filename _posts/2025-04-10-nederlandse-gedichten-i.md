@@ -7,6 +7,8 @@ image: assets/images/cartoon-rose.jpg
 
 Enkele Nederlandse gedichten, eerste drie geschreven in de afgelopen maand, laatste al weer ~14 maanden geleden. Veel in het Engels geschreven afgelopen tijd, wat ik eigenlijk zonde vind. Ambitie is om de komende maanden me meer toe te spitsen op de Nederlandse taal, d.m.v. boeken, muziek maar zeker ook poëzie. Om de Nederlandse taal aan te prijzen, hier enkele aanbevelingen van Nederlandse werken van de afgelopen maand die mij zeer bevallen: Marion Bruinenberg's [Nieuweling](https://www.bol.com/nl/nl/f/nieuweling/9300000062914961/), Sef's [nieuwste EP](https://www.youtube.com/watch?v=qOvkEC3ccTI), en deze gedichten van [Twan Vet](https://www.hollandsmaandblad.nl/editie/2024-10/gedichten-321/).
 
+### Gedichten:
+
 **zeitgeist**<br>
 opa las nochtans ochtendkrant<br>
 jij bekeek het lesrooster op teletekst<br>
