@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<div class="container">
+<div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
+		<div class="h-100 tofront">
+			<div class="row {% if page.image %} justify-content-between {% else %} justify-content-center {% endif %}">
+				<div class="{% if page.image %} col-md-6 {% else %} col-md-8 {% endif %} pr-0 pr-md-4 pt-4 pb-4 align-self-center">
+					<p class="text-uppercase font-weight-bold">
+                        <span class="catlist">
+						    {% for category in page.categories %}
+                                <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ category | downcase }}" style="font-family: 'Work Sans', sans-serif;">
+                                    {{ category | downcase }}
+                                </a>
+                                <span class="sep">, </span>
+                            {% endfor %}
+                        </span>
+					</p>
+                    
+                    <h1 class="display-4 mb-4 article-headline" style="font-family: 'Lexend Deca', sans-serif; font-weight: 700;">{{ page.title }}</h1>
+					<div class="d-flex align-items-center">
+                        <span class="text-muted d-block mt-1" style="font-family: 'Work Sans', sans-serif;">
+                            {{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}
+                        </span>
+                    </div>
+                    
+				</div>
+                {% if page.image %}
+				<div class="col-md-6 pr-0 align-self-center">
+					<img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+				</div>
+                {% endif %}
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="container-lg pt-4 pb-4">
+	<div class="row justify-content-center">
+        
+		<div class="col-md-12 col-lg-8">
+            <article class="article-post" style="font-family: 'Merriweather', sans-serif; text-align: justify; font-size: 17px">                
+                {{ content }}                
+            </article>

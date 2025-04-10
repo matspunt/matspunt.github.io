@@ -1,0 +1,43 @@
+# Site
+name: 'Mats Punt'
+title: '- Personal Blog'
+favicon: 'assets/images/favicon.ico'
+baseurl: 'https://matspunt.nl'
+
+include: ["_pages"]
+permalink: posts/:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - rouge
+ 
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    default_lang: html
+    css_class   : 'syntax'
+
+paginate: 10
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
