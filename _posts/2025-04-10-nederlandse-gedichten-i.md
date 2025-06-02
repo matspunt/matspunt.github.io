@@ -60,7 +60,7 @@ voelen, ervaren of regels schrijven<br>
 overpeinzingen trachten verdrijven<br>
 
 op scherm cursor onrustig blinken<br>
-balpennen die in dorst verdrinken<br>
+balpennen die in inkt verdrinken<br>
 
 wat valt er te zeggen over bestaan<br>
 dat nog niet eerder is gedaan?<br> 
