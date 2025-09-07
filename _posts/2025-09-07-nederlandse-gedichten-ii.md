@@ -9,7 +9,7 @@ Weer eens wat gedichten, nummer één en vier heb ik deze maand geschreven, twee
 
 ### Gedichten:
 
-**ontheven**
+**ontheven**<br>
 ik ken het einde van elk liefdes-<br>
 verhaal, de absurditeit van<br>
 
@@ -63,7 +63,7 @@ kunst een gebrek aan authenticiteit<br>
 
 ---
 
-**beneveling**
+**beneveling**<br>
 ik heb weer een keer te veel gezopen<br>
 vroeger deed ik dat veels te vaak<br>
 
