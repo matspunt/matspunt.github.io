@@ -61,9 +61,8 @@ en hoop: menige onverstuurde liefdesbrieven<br>
 geadresseerd aan *De fraaiste heer des lands.*<br>
 
 decennia later buigt je kleindochter op<br>
-zolder zich over de vergeelde pagina’s,<br>
-leest ze vol oprechte ontroering door<br>
-
+zolder zich over de vergeelde pagina’s.<br>
+vol oprechte ontroering leest ze ze door,<br>
 en leeft in haar onvervulde liefde voort. 
 
 ---
