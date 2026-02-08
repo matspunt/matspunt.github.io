@@ -67,20 +67,18 @@ en leeft in haar onvervulde liefde voort.
 
 ---
 
-**komt een man bij de dokter**<br>
-veel te vroeg gearriveerd in de<br>
-wachtkamer, eindig ik ijsberend<br>
+**avondwandeling**<br>
+liefde is dromen<br>
+van een zondvloed<br>
+zonder eind of begin<br>
 
-op het toilet. boven de wasbak<br>
-hangt een spiegel met lelijk portret.<br>
+lust wordt een leegte<br>
+die dwingt te leven<br>
+voor haar eigen gewin<br>
 
-alles is troosteloos aan deze plek.<br> 
-een oudere dame tikt op de tafel<br>
+de dood een zekerheid<br>
+paradox voor elk mens<br>
+knullig vervuld van hoop<br>
 
-en ik neig te schreeuwen *verrek*,<br>
-*dit is wat er mis is met jullie generatie!*<br>
-
-ik veeg het boetekleed glad, werp een<br>
-blik op de dame met haar klotegetik<br>
-
-en loop de vergankelijkheid tegemoet. 
+en altijd de gewetenloze<br>
+vraag waarom?
