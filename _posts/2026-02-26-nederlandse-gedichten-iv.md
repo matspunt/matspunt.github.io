@@ -51,7 +51,7 @@ welke basen overstijgen het basale?<br>
 
 in nachtelijke visioenen hengel ik naar<br> 
 de homeopathisch verdunde kern van<br> 
-mijn essentie: atomen vol met leegte.<br>  
+mijn essentie: atomen vol met leegte,<br>  
 
 alsof het ventiel van het universum lekt.<br> 
 we zijn dier, prooi, mens. nietig insect<br> 
