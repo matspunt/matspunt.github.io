@@ -65,7 +65,7 @@ kunst een gebrek aan authenticiteit<br>
 
 **beneveling**<br>
 ik heb weer een keer te veel gezopen<br>
-vroeger deed ik dat veels te vaak<br>
+vroeger deed ik dat veel te vaak<br>
 
 weiger het te romantiseren,<br>
 maar drink niet altijd voor de smaak<br>
