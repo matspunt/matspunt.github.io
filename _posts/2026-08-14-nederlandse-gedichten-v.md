@@ -39,7 +39,7 @@ door ongecoördineerde bewegingen verbrijzeld is.
 
 **neerslachtige buien**<br>
 van die dagen waarin valentie haar betekenis verliest -<br> 
-goed, kwaad, blij, boos allemaal hetzelfde en hetzelfde<br>
+goed, kwaad, blij, boos, allemaal hetzelfde en hetzelfde<br>
 en hetzelfde en hetzelfde, word ik gek, gek, gek van <br>
 niets, mijn eigen nietigheid, het onvermogen mezelf<br>
 aan anderen over te brengen. lusteloosheid heeft <br>
